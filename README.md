@@ -5,31 +5,31 @@
 This project contains an Express application that utilizes Handlebars for templating. The main structure includes the following folders and files:
 
 - Asn2-yash/
-	-node_modules/
-	-public/
-		-images
-		-stylesheets/
-			-style.css
-	-views/
-		-layouts/
-			-main.hbs
-		-partials/
-			-header.hbs
-			-footer.hbs
-		-allData_with_class.hbs
-		-allData.hbs
-		-cv.hbs
-		-error.hbs
-		-index.hbs
-		-invoice.hbs
-		-search_invoice_result.hbs
-		-search_invoice.hbs
-		-search_manufacturer_result.hbs
-		-search_manufacturer.hbs
-	-app.js
-	-CarSales.json
-	-package.json
-	-package-lock.json
+	- node_modules/
+	- public/
+		- images/
+		- stylesheets/
+			- style.css
+	- views/
+		- layouts/
+			- main.hbs
+		- partials/
+			- header.hbs
+			- footer.hbs
+		- allData_with_class.hbs
+		- allData.hbs
+		- cv.hbs
+		- error.hbs
+		- index.hbs
+		- invoice.hbs
+		- search_invoice_result.hbs
+		- search_invoice.hbs
+		- search_manufacturer_result.hbs
+		- search_manufacturer.hbs
+	- app.js
+	- CarSales.json
+	- package.json
+	- package-lock.json
 
 ## Instructions
 
