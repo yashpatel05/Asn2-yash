@@ -96,7 +96,7 @@ Deployed Application Link: [https://thankful-crab-onesies.cyclic.app/](https://t
 
 ## Additional Steps and Screenshots
 
-For additional steps and screenshots, please refer to the Word file located in the [Asn2-yash](https://github.com/yashpatel05/Asn2-yash).
+For additional steps and screenshots, please refer to the Word file located in the [Asn2-yash](https://github.com/yashpatel05/Asn2-yash/blob/master/Assignment2_Yash_Patel.docx).
 
 ## Author
 
