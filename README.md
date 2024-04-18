@@ -44,7 +44,7 @@ This project contains an Express application that utilizes Handlebars for templa
 3. Installed Express and Express Handlebars via npm.
 4. Ensured the project structure adheres to the provided outline.
 
-### Step 3: Application Testing
+### Step 2: Application Testing
 
 After setting up the application, run the application and test it using the following routes:
 
@@ -52,7 +52,7 @@ After setting up the application, run the application and test it using the foll
 - http://localhost:3000/users
 - http://localhost:3000/notExist
 
-### Step 4: Observations and Answers
+### Step 3: Observations and Answers
 
 a) **Role of `main.hbs`:**  
    `main.hbs` serves as the main template for the HTML structure, providing a layout shared across multiple views.
@@ -63,31 +63,31 @@ b) **Role of `index.hbs` and `error.hbs`:**
 c) **Role of `app.js` line:**  
    `app.use(express.static(path.join(__dirname, 'public')));` serves static files. Commenting it out would prevent static file serving.
 
-### Step 5: Layout Modification
+### Step 4: Layout Modification
 
 Modify the layout of the page by adding a header, content, and footer. Customize the `main.hbs` and `style.css` files to achieve this layout.
 
-### Step 6: Integration of Assignment 1
+### Step 5: Integration of Assignment 1
 
 Integrate the code from Assignment 1 into the template. Create specific pages in the `views` folder for each route in Assignment 1. Use `res.render` to render the appropriate page for each route.
 
-### Step 7: New Route Creation
+### Step 6: New Route Creation
 
 Create a new route `/allData` to display all Sales information in an HTML table using Handlebars helpers and expressions.
 
-### Step 8: Data Filtering
+### Step 7: Data Filtering
 
 Modified the `/allData` route to remove records with blank `class` attributes.
 
-### Step 9: Custom Handlebar Helper
+### Step 8: Custom Handlebar Helper
 
 Designed a custom helper to change "blank" to "unknown" for records with blank `class` attributes, highlighting affected rows.
 
-### Step 10: Further Enhancements
+### Step 9: Further Enhancements
 
 Implemented row color changes for records with blank `class` attributes. Discussed the use of Partial Templates for code reuse.
 
-### Step 11:
+### Step 10:
 
 1. Pushed the code to GitHub.
 2. Deployed the application to Cyclic.
