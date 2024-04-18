@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This README document outlines the steps taken and the structure of the project created for Assignment 2.
+Assignment 2 involved creating an Express application named "Asn2-yash" with Handlebars templating for dynamic content rendering. Key tasks included establishing project structure, testing routes, modifying layouts, designing new routes, implementing data filtering, and deploying the application. Detailed steps and screenshots can be found in the accompanying Word file in the GitHub repository.
 
 ## Project Structure
 
